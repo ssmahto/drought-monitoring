@@ -157,9 +157,9 @@ function getColor(SPI) {
     } else if (SPI > 2 && SPI <= 3) {
         return '#ff0000'; // Red for 2 < SPI <= 3
     } else if (SPI > 3 && SPI <= 4) {
-        return '#7f0000'; // Dark Red for 3 < SPI <= 4
+        return '#7f0000'; // Dark Red for Very high
     } else {
-        return 'whitesmoke'; // Green for SPI > 4
+        return 'whitesmoke'; // Green for NoData
     }
 }
 
