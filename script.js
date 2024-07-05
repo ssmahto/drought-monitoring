@@ -164,13 +164,6 @@ function getColor(SPI) {
 }
 
 
-
-
-
-
-
-
-
 //============== Country/State shapefile =============================================
 //=======================================================================
 // Load and display the shapefile for state boundaries
